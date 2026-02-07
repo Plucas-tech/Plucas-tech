@@ -5,6 +5,18 @@
 Me chamo Pedro Lucas e sou estudante da área de Computação. Atualmente estou focado em aprender lógica de programação e desenvolvimento web, buscando evoluir gradualmente na criação de projetos e no entendimento dos paradigmas de programação.
 
 Tenho interesse em tecnologia, desenvolvimento de sistemas e estou sempre em busca de aprimorar meus conhecimentos por meio de estudos e projetos práticos, como sites institucionais e aplicações simples.
+
+🚀 Tecnologias em aprendizado
+
+HTML (base inicial)
+
+CSS (base inicial)
+
+Python (base inicial)
+
+JavaScript (iniciando os estudos)
+
+PHP (iniciando os estudos)
     
   <p align="left"> 
       <a href="https://github.com/Plucas-tech?tab=repositories&sort=stargazers">
